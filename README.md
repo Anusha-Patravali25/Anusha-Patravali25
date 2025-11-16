@@ -18,13 +18,7 @@ I enjoy working on products that merge **AI + education**, turning innovative id
 **Frontend:** React.js, Tailwind CSS  
 **AI/ML:** OpenAI API, LangChain, Hugging Face, scikit-learn  
 **DevOps:** Docker, AWS, Git  
-**Other:** Pandas, SQL, Power BI, Excel  
-
-🚀 **Current Projects**  
-- **TeachTap** → AI-driven platform that brings historical figures to life through microlearning videos.  
-- **TeachTales** → Personalized storytelling powered by Generative AI for better comprehension.  
-- **Athena** → AI-generated academic assessments with instant feedback.  
-- **TimeBack** → AI learning copilot that coaches students in real time.  
+**Other:** Pandas, SQL, Power BI, Excel    
 
 📫 **Let’s Connect**  
 [LinkedIn](https://www.linkedin.com/in/anusha-patravali) • [Email](mailto:anusha.patravali@gmail.com)
